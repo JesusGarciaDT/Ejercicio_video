@@ -1,3 +1,5 @@
+//Hace una conversion de euros a dolares y viceversa
+
 package programagit;
 
 import java.awt.*;
